@@ -82,8 +82,8 @@
     //创建游戏开始和结束的画面
     var Screen = {
         welcome: function() {
-            this.text = '****';
-            this.textSub = 'ccvxx.cn';
+            this.text = 'Start';
+            this.textSub = 'clubof.com';
             this.textColor = 'white';
             this.create();//调用本身的图像绘制方法
         },
